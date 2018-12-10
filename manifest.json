@@ -1,0 +1,37 @@
+{
+    "name": "Blob Emojis Menu",
+
+    "version": "1.0",
+
+    "description": "Display a menu with old \"blobs\" emojis from Android 6.0.1",
+
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "https://messages.android.com/*",
+        "https://ssl.gstatic.com/dynamite/emoji/*"
+    ],
+
+    "browser_action": {
+        "default_icon": {
+            "48": "resources/icons/sleuth-or-spy_1f575_48.png",
+            "96": "resources/icons/sleuth-or-spy_1f575_96.png",
+            "128": "resources/icons/sleuth-or-spy_1f575_128.png"
+        },
+        "default_title": "Blob emojis",
+        "default_popup": "emoji-menu/main.html"
+    },
+
+    "icons": {
+        "48": "resources/icons/sleuth-or-spy_1f575_48.png",
+        "96": "resources/icons/sleuth-or-spy_1f575_96.png",
+        "128": "resources/icons/sleuth-or-spy_1f575_128.png"
+    },
+
+    "developer": {
+        "name": "Matthieu Houdebine",
+        "url": "https://github.com/mathoudebine/potatoes-emoji-webext"
+    },
+    
+    "manifest_version": 2
+}
