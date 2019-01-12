@@ -1,6 +1,6 @@
 # Blob Emojis Menu Firefox WebExtension
 
-**This add-on adds an icon on the Firefox toolbar, offering a menu with emojis to insert in your messages. latest noto-emoji from Google with old "blobs"(or "potatoes" or "worms" or whatever you call it...) emojis from Android 6.0.1 on the Google website Messages for web.**
+**This add-on adds an icon on the Firefox toolbar, offering a menu with emojis to insert in your messages. Emojis are displayed with their Google "blobs" representation from Android 6.0.1.**
 
 ![Display good ol' blobs !](resources/images/blob.jpg "Display good ol' blobs !")
 
